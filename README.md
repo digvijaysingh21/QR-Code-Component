@@ -24,7 +24,7 @@ Learning responsive layout .
 ### Links
 
 - Solution URL:(https://github.com/digvijaysingh21/QR-Code-Component.git)
-- Live Site URL:()
+- Live Site URL:(https://qr-code-component-sigma-virid.vercel.app/)
 
 ## My process
 Create a container inside this create a card and keep oyur image and text in this section and style accordingly.
